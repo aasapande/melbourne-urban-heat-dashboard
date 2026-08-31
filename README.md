@@ -6,9 +6,6 @@ The app is a guided, scrolling data story with a story-navigation sidebar, a glo
 
 **Key finding:** the intuitive hypothesis, that more green cover reduces energy demand, didn't hold. Tree density correlates with cooler temperatures (r = −0.49), but commercial land use, not vegetation, is what actually drives energy demand (r = 0.77, p < 0.001).
 
-## Screenshots
-
-*(Add 1–3 screenshots or a short GIF of the app here, e.g. the heatmap section and the linked map+scatter section.)*
 
 ## How to run
 
